@@ -16,3 +16,10 @@ def rund_sum():
 
 
 rund_sum()
+
+# Good job. But please notice: rund_num1 and rund_num2 may be identical,
+# do you should start with double = 1.
+# There is also a typo in the word "rund" and variable names
+# (should be random or rand).
+# I would also recommend changing the name of the function rund_sum,
+# because it doesn't calculate a sum.

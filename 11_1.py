@@ -7,3 +7,9 @@ for num in range(10):
     counter += 1
 
 print("the max num in list is: ", max(list))
+
+# Good job!
+# A few comments:
+# - This works for integers, but maybe you should allow non-integers values too.
+# - You could have used (num + 1) as your counter.
+

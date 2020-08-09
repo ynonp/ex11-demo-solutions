@@ -19,3 +19,12 @@ def rund_sum():
 
 
 rund_sum()
+
+# Very good. Just notice, it should be
+# `if guess > 100 or guess < 1:` and not
+# `if guess > 100 or guess < 0:`.
+# There is also a typo in the word "rund" and variable names
+# (should be random or rand).
+# I would also recommend changing the name of the function rund_sum,
+# because it doesn't calculate a sum.
+
